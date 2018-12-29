@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jetpackapp</string>
+    <string name="recent_posts">Recent posts</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+</resources>
